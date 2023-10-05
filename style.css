@@ -171,31 +171,17 @@ a:hover {
 
 
 @media(max-width:480px){      /*Reponsive design for smaller tablet and large smartphones   */
-    
-    .introduction{
-        padding-left:60px; /*move to the left when screen is very small   */
-        padding-right:60px; /*move to the left when screen is very small   */
-    }
+
 
 }
 
-
 @media(max-width:360px){      /*Reponsive design for smaller tablet and large smartphones   */
     
-    .introduction{
 
-        padding-left:100px; /*move to the left when screen is very small   */
-        padding-right:100px; /*move to the left when screen is very small   */
-    }
 }
 
 @media(max-width:320px){      /*Reponsive design for smaller tablet and large smartphones   */
     
-    .introduction{
-
-        padding-left:160px; /*move to the left when screen is very small   */
-        padding-right:160px; /*move to the left when screen is very small   */
-    }
 }
 
 
