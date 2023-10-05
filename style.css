@@ -182,7 +182,7 @@ a:hover {
 
     .introduction{
 
-        margin-left:80px; /*move to the left when screen is very small   */
+        margin-left:40px; /*move to the left when screen is very small   */
     }
 
     
@@ -214,7 +214,7 @@ a:hover {
 
     .introduction{
 
-        margin-left:100px; /*move to the left when screen is very small   */
+        margin-left:60px; /*move to the left when screen is very small   */
     }
 
 }
@@ -223,7 +223,7 @@ a:hover {
     
     .introduction{
 
-        margin-left:200px; /*move to the left when screen is very small   */
+        margin-left:70px; /*move to the left when screen is very small   */
     }
     
 }
