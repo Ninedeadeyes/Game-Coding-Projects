@@ -147,6 +147,7 @@ a:hover {
 
     .introduction{
         font-size:.6em; 
+        border-radius:1em;
     
     }
 
@@ -171,31 +172,24 @@ a:hover {
 
 
 @media(max-width:480px){      /*Reponsive design for smaller tablet and large smartphones   */
-    .introduction{
-        font-size:.6em; 
-        border-radius:1em;
-        margin : 60px;
-
-    }
 
     img{
         width: 380px;
         height: 300px;
     }
+    
+
 
 }
 
 @media(max-width:360px){      /*Reponsive design for smaller tablet and large smartphones   */
     
     img{
-        width: 280px;
-        height: 200px;
+        width: 250px;
+        height: 150px;
     }
 }
 
-@media(max-width:320px){      /*Reponsive design for smaller tablet and large smartphones   */
-    
-}
 
 
 
