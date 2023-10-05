@@ -43,7 +43,7 @@ a:hover {
     left:0;
     right:0;
     justify-content: space-between;
-    width:100%;
+    width:auto;
     border-radius:5px;            
 }
 
@@ -110,6 +110,7 @@ a:hover {
     bottom:0px;                /* so it is fixed to the sides of the page  */
     left:0;
     right:0;
+    width:auto;
 
     border-radius:5px;
 }
@@ -148,8 +149,6 @@ a:hover {
 
     .introduction{
         font-size:.6em; 
-        border-radius:1em;
-    
     }
 
     .mainHead{
