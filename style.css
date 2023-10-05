@@ -189,6 +189,12 @@ a:hover {
     img{
         width: 250px;
         height: 150px;
+    
+    }
+
+    .introduction{
+
+        margin-left: 20px;
     }
 }
 
