@@ -142,8 +142,8 @@ a:hover {
 @media(max-width:550px){      /*Reponsive design for smaller tablet and large smartphones   */
     
     img{
-        width: 480px;
-        height: 400px;
+        width: 430px;
+        height: 350px;
     }
     
     .footer{
@@ -233,9 +233,6 @@ a:hover {
     }
     
 }
-
-
-
 
 
 #black{
