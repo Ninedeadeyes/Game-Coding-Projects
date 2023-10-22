@@ -55,7 +55,7 @@ a:hover {
     color: black;
     text-decoration-line: underline;
     font-family: Bungee;
-    font-size:1.7em;
+    font-size:1.4em;
     text-emphasis-color: white;  
     margin-left:10px;
 }
@@ -136,8 +136,10 @@ a:hover {
    
 }
 
+
 #black{
     color: black;
+    font-size: 1em;
 }
 
 #brown {
@@ -191,8 +193,13 @@ a:hover {
 
 
 @media(max-width:450px){      /*Reponsive design for smaller tablet and large smartphones   */
+    
     .mainHead{
-        font-size: 0.6em;
+        font-size: 0.8em;
+    }
+
+    #black{
+        font-size: 0.8em;
     }
 
 
@@ -205,9 +212,7 @@ a:hover {
 
         margin-left:15px; /*move to the left when screen is very small   */
     }
-
     
-
 
 }
 
