@@ -162,6 +162,10 @@ a:hover {
         height: 350px;
     }
     
+    #positioning{
+        margin-left:90px;
+    }  
+
     .footer{
 
         height:120px;
@@ -203,7 +207,7 @@ a:hover {
     }
 
     #positioning{
-        margin-left:90px;
+        margin-left:80px;
     }  
 
     img{
