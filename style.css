@@ -202,6 +202,9 @@ a:hover {
         font-size: 0.8em;
     }
 
+    #positioning{
+        margin-left:90px;
+    }  
 
     img{
         width: 380px;
@@ -224,6 +227,10 @@ a:hover {
     
     }
 
+    #positioning{
+        margin-left:70px;
+    }  
+
     .aboutMe{
 
         font-size:.7em; 
@@ -245,8 +252,12 @@ a:hover {
 
 }
 
-@media(max-width:320px){      /*Reponsive design for smaller tablet and large smartphones   */
+@media(max-width:320px){   /*Reponsive design for smaller tablet and large smartphones   */
     
+    #positioning{
+        margin-left:50px;
+    }  
+
     .introduction{
 
         margin-left:35px; /*move to the left when screen is very small   */
