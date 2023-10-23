@@ -225,6 +225,14 @@ a:hover {
 
 @media(max-width:360px){      /*Reponsive design for smaller tablet and large smartphones   */
 
+    .mainHead{
+        font-size: 0.6em;
+    }
+
+    #black{
+        font-size: 0.6em;
+    }
+    
     img{
         width: 250px;
         height: 200px;
